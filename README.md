@@ -2,7 +2,7 @@
 
 ## Description
  MITxPro Coding Excercise week 4.
- PacMan moving exercise.
+ <p>PacMan moving exercise.</p>
  
 ## Support
  Feel free to contact at ...
